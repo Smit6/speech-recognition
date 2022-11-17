@@ -1,0 +1,18 @@
+name: ds2
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=10.2
+  - mpi4py
+  - pip
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+    - scikit-learn
