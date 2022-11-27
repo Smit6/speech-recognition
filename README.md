@@ -8,3 +8,6 @@ From Torchaudio, 100 hours of audio data is utilized for training the Deep Speec
 ### Data Preprocessing
 - Audio waveforms to Mel Spectrum
 - Utterance to integers
+
+
+### Model
